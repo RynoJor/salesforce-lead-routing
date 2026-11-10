@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomNotificationType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customNotifTypeName>Lead SLA Alert</customNotifTypeName>
+    <description>Bell and mobile alert for a newly routed lead and for a missed first-response SLA.</description>
+    <desktop>true</desktop>
+    <masterLabel>Lead SLA Alert</masterLabel>
+    <mobile>true</mobile>
+</CustomNotificationType>

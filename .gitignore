@@ -1,0 +1,16 @@
+# Salesforce CLI state: holds org auth, usernames and org IDs. Never commit.
+.sf/
+.sfdx/
+.localdevserver/
+**/.sfdx/
+**/.sf/
+*.log
+sfdx-auth*.json
+auth*.json
+.env
+node_modules/
+.vscode/
+.idea/
+# local scratch output (benchmarks, raw test results with org IDs)
+.local/
+tests-output/

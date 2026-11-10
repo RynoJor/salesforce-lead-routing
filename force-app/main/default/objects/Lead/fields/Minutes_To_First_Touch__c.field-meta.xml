@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Minutes_To_First_Touch__c</fullName>
+    <description>Minutes from Routed At to First Touch At.</description>
+    <inlineHelpText>Minutes from Routed At to First Touch At.</inlineHelpText>
+    <label>Minutes to First Touch</label>
+    <externalId>false</externalId>
+    <formula>IF(OR(ISBLANK(First_Touch_At__c), ISBLANK(Routed_At__c)), NULL, (First_Touch_At__c - Routed_At__c) * 1440)</formula>
+    <formulaTreatBlanksAs>BlankAsBlank</formulaTreatBlanksAs>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,802 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead01"
+      },
+      "FirstName": "Avery",
+      "LastName": "Example",
+      "Company": "Quillbrook Pilates Studio",
+      "Industry": "Recreation",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "avery@quillbrookpilatesstudio.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead02"
+      },
+      "FirstName": "Jordan",
+      "LastName": "Tanaka",
+      "Company": "Maplewood Physio",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "jordan@maplewoodphysio.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead03"
+      },
+      "FirstName": "Priya",
+      "LastName": "Romano",
+      "Company": "Sunridge Coffee",
+      "Industry": "Food & Beverage",
+      "NumberOfEmployees": 120,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "priya@sunridgecoffee.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead04"
+      },
+      "FirstName": "Nora",
+      "LastName": "Berg",
+      "Company": "Larkwell Bakery",
+      "Industry": "Food & Beverage",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "nora@larkwellbakery.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead05"
+      },
+      "FirstName": "Sam",
+      "LastName": "Galloway",
+      "Company": "Riverlight Clinic",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 4,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "sam@riverlightclinic.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead06"
+      },
+      "FirstName": "Lena",
+      "LastName": "Iyer",
+      "Company": "Harborview Dental",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 120,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "lena@harborviewdental.example.com",
+      "Region__c": "APAC"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead07"
+      },
+      "FirstName": "Tomas",
+      "LastName": "Mori",
+      "Company": "Brightpath Tutoring",
+      "Industry": "Education",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "tomas@brightpathtutoring.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead08"
+      },
+      "FirstName": "Mei",
+      "LastName": "Moreau",
+      "Company": "Copperleaf Consulting",
+      "Industry": "Consulting",
+      "NumberOfEmployees": 120,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "mei@copperleafconsulting.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead09"
+      },
+      "FirstName": "Kofi",
+      "LastName": "Novak",
+      "Company": "Northwind Outfitters",
+      "Industry": "Retail",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "kofi@northwindoutfitters.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead10"
+      },
+      "FirstName": "Ines",
+      "LastName": "Haddad",
+      "Company": "Bluefern Yoga",
+      "Industry": "Recreation",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "ines@bluefernyoga.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead11"
+      },
+      "FirstName": "Ravi",
+      "LastName": "Rahman",
+      "Company": "Ironbark Fitness",
+      "Industry": "Recreation",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "ravi@ironbarkfitness.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead12"
+      },
+      "FirstName": "Hana",
+      "LastName": "Nair",
+      "Company": "Stillwater Advisors",
+      "Industry": "Consulting",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "hana@stillwateradvisors.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead13"
+      },
+      "FirstName": "Owen",
+      "LastName": "Duarte",
+      "Company": "Kestrel Realty",
+      "Industry": "Other",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "owen@kestrelrealty.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead14"
+      },
+      "FirstName": "Zara",
+      "LastName": "Lindqvist",
+      "Company": "Amberline Salon",
+      "Industry": "Other",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "zara@amberlinesalon.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead15"
+      },
+      "FirstName": "Luca",
+      "LastName": "Kaya",
+      "Company": "Granite Peak Motors",
+      "Industry": "Other",
+      "NumberOfEmployees": 30,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "luca@granitepeakmotors.example.com",
+      "Region__c": "APAC"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead16"
+      },
+      "FirstName": "Amara",
+      "LastName": "Fischer",
+      "Company": "Willowmere Inn",
+      "Industry": "Hospitality",
+      "NumberOfEmployees": 30,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "amara@willowmereinn.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead17"
+      },
+      "FirstName": "Felix",
+      "LastName": "Brennan",
+      "Company": "Pinecrest Pharmacy",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 30,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "felix@pinecrestpharmacy.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead18"
+      },
+      "FirstName": "Yuki",
+      "LastName": "Holm",
+      "Company": "Marigold Catering",
+      "Industry": "Food & Beverage",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "yuki@marigoldcatering.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead19"
+      },
+      "FirstName": "Diego",
+      "LastName": "Lee",
+      "Company": "Saltmarsh Design",
+      "Industry": "Consulting",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "diego@saltmarshdesign.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead20"
+      },
+      "FirstName": "Freya",
+      "LastName": "Mensah",
+      "Company": "Juniper Wellness",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 30,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "freya@juniperwellness.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead21"
+      },
+      "FirstName": "Omar",
+      "LastName": "Okafor",
+      "Company": "Fernhill Academy",
+      "Industry": "Education",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "omar@fernhillacademy.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead22"
+      },
+      "FirstName": "Elin",
+      "LastName": "Silva",
+      "Company": "Redwood Legal",
+      "Industry": "Consulting",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "elin@redwoodlegal.example.com",
+      "Region__c": "APAC"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead23"
+      },
+      "FirstName": "Mateo",
+      "LastName": "Ortiz",
+      "Company": "Lanternfish Market",
+      "Industry": "Retail",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "mateo@lanternfishmarket.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead24"
+      },
+      "FirstName": "Ayla",
+      "LastName": "Sato",
+      "Company": "Oakhaven Chiropractic",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 60,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "ayla@oakhavenchiropractic.example.com",
+      "Region__c": "APAC"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead25"
+      },
+      "FirstName": "Theo",
+      "LastName": "Vargas",
+      "Company": "Silvermoss Spa",
+      "Industry": "Other",
+      "NumberOfEmployees": 4,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "theo@silvermossspa.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead26"
+      },
+      "FirstName": "Avery",
+      "LastName": "Example",
+      "Company": "Tidewater Athletics",
+      "Industry": "Recreation",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "avery@tidewaterathletics.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead27"
+      },
+      "FirstName": "Jordan",
+      "LastName": "Tanaka",
+      "Company": "Cobalt Ridge Accounting",
+      "Industry": "Consulting",
+      "NumberOfEmployees": 60,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "jordan@cobaltridgeaccounting.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead28"
+      },
+      "FirstName": "Priya",
+      "LastName": "Romano",
+      "Company": "Hollowbrook Goods",
+      "Industry": "Retail",
+      "NumberOfEmployees": 120,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "priya@hollowbrookgoods.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead29"
+      },
+      "FirstName": "Nora",
+      "LastName": "Berg",
+      "Company": "Starling Physio",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "nora@starlingphysio.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead30"
+      },
+      "FirstName": "Sam",
+      "LastName": "Galloway",
+      "Company": "Driftwood Guesthouse",
+      "Industry": "Hospitality",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "sam@driftwoodguesthouse.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead31"
+      },
+      "FirstName": "Lena",
+      "LastName": "Iyer",
+      "Company": "Emberstone Gym",
+      "Industry": "Recreation",
+      "NumberOfEmployees": 120,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "lena@emberstonegym.example.com",
+      "Region__c": "APAC"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead32"
+      },
+      "FirstName": "Tomas",
+      "LastName": "Mori",
+      "Company": "Clearwater Learning",
+      "Industry": "Education",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "tomas@clearwaterlearning.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead33"
+      },
+      "FirstName": "Mei",
+      "LastName": "Moreau",
+      "Company": "Rosewood Boutique",
+      "Industry": "Retail",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "mei@rosewoodboutique.example.com",
+      "Region__c": "APAC"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead34"
+      },
+      "FirstName": "Kofi",
+      "LastName": "Novak",
+      "Company": "Thornfield Health",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "kofi@thornfieldhealth.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead35"
+      },
+      "FirstName": "Ines",
+      "LastName": "Haddad",
+      "Company": "Mistral Kitchen",
+      "Industry": "Food & Beverage",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "ines@mistralkitchen.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead36"
+      },
+      "FirstName": "Ravi",
+      "LastName": "Rahman",
+      "Company": "Brambleway Homes",
+      "Industry": "Other",
+      "NumberOfEmployees": 180,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "ravi@bramblewayhomes.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead37"
+      },
+      "FirstName": "Hana",
+      "LastName": "Nair",
+      "Company": "Glasswing Studio",
+      "Industry": "Recreation",
+      "NumberOfEmployees": 4,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "hana@glasswingstudio.example.com",
+      "Region__c": "APAC"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead38"
+      },
+      "FirstName": "Owen",
+      "LastName": "Duarte",
+      "Company": "Coralbay Nails",
+      "Industry": "Other",
+      "NumberOfEmployees": 60,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "owen@coralbaynails.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead39"
+      },
+      "FirstName": "Zara",
+      "LastName": "Lindqvist",
+      "Company": "Highmoor Tires",
+      "Industry": "Other",
+      "NumberOfEmployees": 120,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "zara@highmoortires.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead40"
+      },
+      "FirstName": "Luca",
+      "LastName": "Kaya",
+      "Company": "Wrenfield Clinic",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 4,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "luca@wrenfieldclinic.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead41"
+      },
+      "FirstName": "Amara",
+      "LastName": "Fischer",
+      "Company": "Ashgrove Deli",
+      "Industry": "Food & Beverage",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "amara@ashgrovedeli.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead42"
+      },
+      "FirstName": "Felix",
+      "LastName": "Brennan",
+      "Company": "Moonpetal Wellness",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "felix@moonpetalwellness.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead43"
+      },
+      "FirstName": "Nora",
+      "LastName": "Galloway",
+      "Company": "Larkwell Bakery",
+      "Industry": "Food & Beverage",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "Nora@Larkwellbakery.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead44"
+      },
+      "FirstName": "Ben",
+      "LastName": "Achebe",
+      "Company": "Brightpath Tutoring Ltd",
+      "Industry": "Education",
+      "NumberOfEmployees": 30,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "ben@brightpathtutoring-mail.example.com",
+      "Region__c": "APAC"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead45"
+      },
+      "FirstName": "Jo",
+      "LastName": "Pereira",
+      "Company": "Riverlight Clinik",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 45,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "jo@riverlightclinic.example.com",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead46"
+      },
+      "FirstName": "Kim",
+      "LastName": "Larsen",
+      "Company": "Silverlight Clinic",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "kim@silverlightclinic.example.com",
+      "Region__c": "North America"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead47"
+      },
+      "FirstName": "Max",
+      "LastName": "Quinn",
+      "Company": "Harborlights Bistro",
+      "Industry": "Food & Beverage",
+      "NumberOfEmployees": 8,
+      "Inbound_Source__c": "Website Form",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Region__c": "EMEA"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead48"
+      },
+      "FirstName": "Lucia",
+      "LastName": "Reyes",
+      "Company": "Andes Peak Yoga",
+      "Industry": "Recreation",
+      "NumberOfEmployees": 15,
+      "Inbound_Source__c": "Free Trial",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "lucia@andespeakyoga.example.com",
+      "Region__c": "LATAM"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead49"
+      },
+      "FirstName": "Rafa",
+      "LastName": "Costa",
+      "Company": "Ipanema Physio",
+      "Industry": "Healthcare",
+      "NumberOfEmployees": 60,
+      "Inbound_Source__c": "Demo Request",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "rafa@ipanemaphysio.example.com",
+      "Region__c": "LATAM"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "referenceId": "SeedLead50"
+      },
+      "FirstName": "Ari",
+      "LastName": "Weiss",
+      "Company": "Lumen Analytics",
+      "Industry": "Technology",
+      "NumberOfEmployees": 120,
+      "Inbound_Source__c": "Content Download",
+      "Status": "Open - Not Contacted",
+      "Description": "Synthetic portfolio lead (not a real person or business).",
+      "Email": "ari@lumenanalytics.example.com"
+    }
+  ]
+}

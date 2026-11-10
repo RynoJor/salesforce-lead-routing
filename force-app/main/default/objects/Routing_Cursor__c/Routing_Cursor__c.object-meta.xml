@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <description>Round-robin position per Routing Rule (Name = rule developer name). Written by LeadRoutingService and locked with FOR UPDATE so two transactions cannot take the same slot.</description>
+    <enableFeeds>false</enableFeeds>
+    <label>Routing Cursor</label>
+    <visibility>Public</visibility>
+</CustomObject>

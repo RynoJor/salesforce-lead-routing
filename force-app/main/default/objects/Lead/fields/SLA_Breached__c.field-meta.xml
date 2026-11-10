@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SLA_Breached__c</fullName>
+    <description>True when the first touch came after First Response Due, or has not come and the due time has passed.</description>
+    <inlineHelpText>True when the first touch came after First Response Due, or has not come and the due time has passed.</inlineHelpText>
+    <label>SLA Breached</label>
+    <formula>AND(
+    NOT(ISBLANK(First_Response_Due__c)),
+    IF(ISBLANK(First_Touch_At__c), NOW() &gt; First_Response_Due__c, First_Touch_At__c &gt; First_Response_Due__c)
+)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

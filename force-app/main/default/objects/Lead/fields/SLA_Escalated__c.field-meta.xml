@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SLA_Escalated__c</fullName>
+    <description>Ticked by the SLA Flow when the first response was not made by First Response Due.</description>
+    <inlineHelpText>Ticked by the SLA Flow when the first response was not made by First Response Due.</inlineHelpText>
+    <label>SLA Escalated</label>
+    <defaultValue>false</defaultValue>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

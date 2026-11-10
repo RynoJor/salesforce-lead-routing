@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Routed_Leads</fullName>
+    <columns>FULL_NAME</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>Region__c</columns>
+    <columns>Fit_Score__c</columns>
+    <columns>CORE.USERS.ALIAS</columns>
+    <columns>Routing_Reason__c</columns>
+    <columns>First_Response_Due__c</columns>
+    <columns>SLA_Breached__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Routed_At__c</field>
+        <operation>notEqual</operation>
+    </filters>
+    <label>Routed Leads</label>
+</ListView>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Pool_Queue__c</fullName>
+    <description>Developer name of the Lead queue whose user members are the rep pool. Leads wait in this queue when every rep is at capacity.</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Developer name of the Lead queue whose user members are the rep pool. Leads wait in this queue when every rep is at capacity.</inlineHelpText>
+    <label>Pool Queue</label>
+    <length>80</length>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

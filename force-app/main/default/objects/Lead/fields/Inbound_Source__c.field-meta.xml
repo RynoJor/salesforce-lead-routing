@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Inbound_Source__c</fullName>
+    <description>What the lead did: demo request, free trial, website form or content download. Drives the source points in the fit score.</description>
+    <inlineHelpText>What the lead did: demo request, free trial, website form or content download. Drives the source points in the fit score.</inlineHelpText>
+    <label>Inbound Source</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Demo Request</fullName>
+                <default>false</default>
+                <label>Demo Request</label>
+            </value>
+            <value>
+                <fullName>Free Trial</fullName>
+                <default>false</default>
+                <label>Free Trial</label>
+            </value>
+            <value>
+                <fullName>Website Form</fullName>
+                <default>false</default>
+                <label>Website Form</label>
+            </value>
+            <value>
+                <fullName>Content Download</fullName>
+                <default>false</default>
+                <label>Content Download</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>First_Touch_At__c</fullName>
+    <description>Stamped by the Lead trigger the first time Status moves off Open - Not Contacted.</description>
+    <inlineHelpText>Stamped by the Lead trigger the first time Status moves off Open - Not Contacted.</inlineHelpText>
+    <label>First Touch At</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>DateTime</type>
+</CustomField>
